@@ -23,8 +23,12 @@ button:active {
 .outer-box {
   height: 250px;
   width: 60%;
-  margin: auto;
+  position:absolute;
+  top:200px;
+  left:300px;
   padding: 20px;
   background-color: white;
   border-radius: 5px;
 }
+
+
